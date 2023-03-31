@@ -7,7 +7,7 @@
 Summary:	Library for accessing the oFono phone system through Qt and QtQuick
 Name:		libqofono
 Version:	0.100
-Release:	1
+Release:	2
 Source0:	https://git.sailfishos.org/mer-core/libqofono/-/archive/%{version}/libqofono-%{version}.tar.bz2
 BuildRequires:	pkgconfig(ofono)
 BuildRequires:	qmake5
